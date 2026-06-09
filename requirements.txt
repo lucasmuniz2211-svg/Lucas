@@ -1,5 +1,7 @@
-sqlite3
-pandas
-numpy
-matplotlib
-scipy
+# Aviator Predictor - Dependências Opcionais
+# Nenhuma biblioteca externa é necessária!
+# A aplicação usa apenas bibliotecas nativas do Python
+
+# Opcional para gráficos avançados (não necessário para funcionar):
+# matplotlib>=3.0.0
+# pandas>=1.0.0
